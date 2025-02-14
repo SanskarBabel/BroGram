@@ -1,8 +1,7 @@
-# React + Vite
+Workout Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Now, we jump into React.js and build a Workout Planner that lets users follow a prescribed workout and track their progress. This will level up your skills in React components, state management, and hooks.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Full CRUD functionality (Create, Read, Update, Delete)
+Smooth UI with FantaCSS
+Hosted & deployed online
